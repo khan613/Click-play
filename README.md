@@ -1,7 +1,4 @@
-<html>
-<head>
-<title></title>
-</head>
+
 <body bgcolor="#DDDDDD">
 <div>
 <h1 align="center">Click to play this video </h1>
